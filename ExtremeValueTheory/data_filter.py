@@ -1,3 +1,6 @@
+# This code extract the data extreme values.
+# The data should in the format of DHM.
+
 import os
 import csv
 import re
